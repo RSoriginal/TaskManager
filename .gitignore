@@ -1,0 +1,11 @@
+# JetBrains IDE (PyCharm, IntelliJ)
+.idea/
+*.iml
+*.ipr
+*.iws
+*.dockerignore
+
+.env
+.env.prod
+.env.dev
+secrets/
